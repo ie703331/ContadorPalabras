@@ -1,0 +1,1 @@
+Hola, buenos días, este día vamos a hacer un trabajo, un trabajo que será algo interesante, este será un programa para hacer la lectura de un archivo, y vamos a buscar palabras repetidas
